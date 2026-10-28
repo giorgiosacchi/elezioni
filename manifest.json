@@ -1,0 +1,26 @@
+{
+  "name": "Elezioni Italia",
+  "short_name": "Elezioni",
+  "description": "Mappa interattiva delle elezioni italiane",
+  "id": "/elezioni/",
+  "start_url": "/elezioni/",
+  "scope": "/elezioni/",
+  "display": "standalone",
+  "background_color": "#eef3f9",
+  "theme_color": "#172c45",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
